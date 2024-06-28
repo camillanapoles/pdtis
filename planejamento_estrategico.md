@@ -1,5 +1,6 @@
 ### Análise SWOT do HI-LAB – Health Intelligence Lab
 
+
 #### Forças (Strengths):
 
 1. Localização estratégica: Integração direta com o ambiente hospitalar universitário (NUTES CISAM), proporcionando acesso a dados clínicos reais e oportunidades de teste em ambiente real.
@@ -59,6 +60,7 @@
 
 Esta análise SWOT fornece uma visão estratégica das capacidades internas e do ambiente externo do HI-LAB, destacando áreas de potencial vantagem competitiva e pontos que requerem atenção e desenvolvimento. Ela servirá como base para a formulação de estratégias específicas para maximizar as forças, mitigar as fraquezas, capitalizar as oportunidades e mitigar as ameaças. 
 
+-----
 
 ### Estratégias
 
