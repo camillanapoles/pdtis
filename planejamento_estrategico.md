@@ -1,6 +1,6 @@
 ### Análise SWOT do HI-LAB – Health Intelligence Lab
 
-Forças (Strengths):
+#### Forças (Strengths):
 
 1. Localização estratégica: Integração direta com o ambiente hospitalar universitário (NUTES CISAM), proporcionando acesso a dados clínicos reais e oportunidades de teste em ambiente real.
 
@@ -14,7 +14,7 @@ Forças (Strengths):
 
 6. Projetos alinhados com necessidades reais: Foco em melhorar a navegação de pacientes e eficiência do sistema de saúde.
 
-Fraquezas (Weaknesses):
+#### Fraquezas (Weaknesses):
 
 1. Infraestrutura tecnológica limitada: Falta de informações sobre laboratórios de informática e equipamentos dedicados.
 
@@ -28,7 +28,7 @@ Fraquezas (Weaknesses):
 
 6. Falta de histórico comprovado: Sendo um programa novo, ainda não possui um track record estabelecido de sucesso.
 
-Oportunidades (Opportunities):
+#### Oportunidades (Opportunities):
 
 1. Demanda crescente por soluções de saúde digital: Contexto pós-pandemia favorável à adoção de tecnologias em saúde.
 
@@ -42,7 +42,7 @@ Oportunidades (Opportunities):
 
 6. Contribuição para políticas públicas: Potencial para influenciar diretrizes nacionais em saúde digital.
 
-Ameaças (Threats):
+#### Ameaças (Threats):
 
 1. Rápida evolução tecnológica: Risco de obsolescência das soluções desenvolvidas.
 
